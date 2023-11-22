@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = 360 Casa Pasadena
 
 ## Skin
 
@@ -21,13 +21,25 @@ HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left
 ## Media
 
 ### Title
+map_CF1BF8FC_F65B_8963_41E6_1AA64A369ABF.label = Kawasan Casa Pasadena
+panorama_A6FAECA1_F6FB_89E5_41EC_C249DCA68828.label = 360CasaPasadena_ViewMEV02_Draft01
 panorama_EA507F5C_F0D8_CCE9_41A9_4F09B25315DE.label = 360CasaPasadena_ViewBEV02_Draft01
 panorama_EA50C2A4_F0D8_7458_41DF_919E50FEF87C.label = 360CasaPasadena_ViewMEV04_Draft01
-panorama_EA50D277_F0D8_54B8_41E1_B0F4F80B002A.label = 360CasaPasadena_ViewMEV02_Draft01
 panorama_EA5108ED_F0D8_75A8_41E9_03F51A628B65.label = 360CasaPasadena_ViewMEV05_Draft01
 panorama_EA510B8F_F0D8_5468_41D1_863889191DC5.label = 360CasaPasadena_ViewMEV03_Draft01
 panorama_EA5129CC_F0D8_B7E9_41EA_709CD3BCB816.label = 360CasaPasadena_ViewMEV01_Draft01
 panorama_ECFCA867_F0D8_D4D8_41D4_44A839FAFBF3.label = 360CasaPasadena_ViewBEV01_Draft01
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_B4B9060E_F6B4_98BF_41E1_4B2BDAF3FA87.toolTip = View Market
+HotspotMapOverlayArea_B5E0746E_F6B5_997F_41CA_003DEF493300.toolTip = View Aerial
+HotspotMapOverlayArea_C82266A6_F64D_99EF_41C9_2652A731DBCD.toolTip = View T Junction
+HotspotMapOverlayArea_C883B72E_F6B4_98FF_41E5_E823EE35FA63.toolTip = View Intersection
+HotspotMapOverlayArea_C898EA46_F6B4_88AF_41D1_BD30344F0D8B.toolTip = View Aerial Intersection
+HotspotMapOverlayArea_C8F7B412_F64D_98A7_41E1_C83EEC577459.toolTip = View Cluster Montana
+HotspotMapOverlayArea_CBB85153_F64B_F8A4_41E8_28141584C3D5.toolTip = View GateKawasan
 
 ## Action
 
