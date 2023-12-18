@@ -13,18 +13,15 @@ tour.name = 360 Casa Pasadena
 Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
 
 ### Multiline Text
-HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.9999999999999964vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8500000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8500000000000023vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
+HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
 HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
 HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
 HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
 
 ### Label
-Label_1DE57C51_3F78_09B4_41BC_161C4DE8D1E8.text = ( 2KT )
-Label_2065837C_3F78_3E6C_41C7_C2E004A702D7.text = OMEGA 5X9
-Label_2073DE47_3F78_099C_41C5_6D7C1DF0EA7D.text = ( 2KT )
-Label_20C29DE5_3F68_0A9C_41CC_1F0D75FBD3A7.text = ( 1KT )
-Label_20E4E321_3F68_1F94_41A4_CF0C12567F3B.text = ALPHA 3.5 x 9 
-Label_20EE6E47_3F78_099C_41A2_02C541AA49B9.text = BETA 3.5 X 9
+Label_2065837C_3F78_3E6C_41C7_C2E004A702D7.text = OMEGA 5X9 ( 2KT )
+Label_20E4E321_3F68_1F94_41A4_CF0C12567F3B.text = ALPHA 3.5 x 9 ( 1KT )
+Label_20EE6E47_3F78_099C_41A2_02C541AA49B9.text = BETA 3.5 X 9 ( 2KT )
 Label_21DECDB5_3F68_0AFC_41CC_7D224E5EF1E9.text = FACILITIES
 Label_4C941264_425A_75E5_419B_792D9F72973E.text = ( 2KT )
 Label_4C95B264_425A_75E5_41AC_07592C165C27.text = OMEGA 5X9
@@ -39,11 +36,7 @@ Label_4C9F6254_425A_7526_41B7_9BA3F6AE2E7E.text = FACILITIES
 ### Title
 album_60A54A53_3F58_09B4_41BA_24C7A01F08B6.label = Photo Album Icon_PopUp Trans_Link
 map_57541EB7_4242_E7F7_41CA_E0A04E3AB5AD.label = Kawasan Casa Pasadena
-panorama_1A0A91FD_42BA_76E6_41CA_8E80B45005A4.label = 360CasaPasadena_ViewMEV04
-panorama_1A15C119_42BA_B72F_41AC_AB8B8D7DC9DF.label = 360CasaPasadena_ViewMEV03
 panorama_1A648D92_42B9_AF3D_41D0_B19A379A4C16.label = 360CasaPasadena_ViewMEV05
-panorama_1BA13EEE_42BA_EAE2_41C9_8A92586A7725.label = 360CasaPasadena_ViewMEV02
-panorama_1ED9F625_42BA_7D67_41C9_E0DD5665E86E.label = 360CasaPasadena_ViewMEV01
 panorama_30CCCEF7_43D9_AAE3_41B0_E298EFC7FE41.label = TipeBeta 3.5x9 2KT- 02Balkon
 panorama_30F02A6D_43E6_55E7_41CE_9D095BFCDA7C.label = TipeOmega 5x9 2KT- 06KidsBedroom
 panorama_30F0927A_43E6_B5ED_4172_78BD8E77C37E.label = TipeOmega 5x9 2KT- 03LivingRoom
@@ -57,10 +50,14 @@ panorama_30F2855C_43E6_5F26_41A9_9B97405A31EF.label = TipeBeta 3.5x9 2KT- 03Livi
 panorama_31244A73_43DA_B5E3_41C9_56510CD4B1FC.label = TipeAlpha 3.5x9 1KT 01Tampak
 panorama_333AA692_43DA_5D3D_41C9_DA22EE925C28.label = TipeAlpha 3.5x9 1KT 02LivingRoom
 panorama_333BE278_43DA_75ED_41C5_BF96F8E14D7A.label = TipeAlpha 3.5x9 1KT 03MasterBedroom
-panorama_33CE6FE1_3D6E_F906_41BF_BBB9A5A10D23.label = 360CasaPasadena_ViewIntersection
 panorama_34B515BC_43D9_BF66_41CD_074245636F17.label = TipeBeta 3.5x9 2KT- 01Tampak
 panorama_3695FE4B_43E6_ED22_41C8_E2547ED52121.label = TipeOmega 5x9 2KT- 01Tampak
-panorama_8CD00705_42A6_F3FA_4181_41EF5258DCFF.label = 360CasaPasadena_ViewBEV01
+panorama_522AE771_7C27_F17F_41D9_E3470947F3C9.label = 360CasaPasadena_ViewMEV02
+panorama_52C0A550_7C27_76BD_41D4_AC721D3CD6C5.label = 360CasaPasadena_ViewMEV04
+panorama_52CC290B_7C27_BEA3_41D8_764D2C5F6E7D.label = 360CasaPasadena_ViewMEV03
+panorama_52D01803_7C26_9EA3_41D7_90E4A8F6D8A6.label = 360CasaPasadena_ViewIntersection
+panorama_52E2C4E5_7C27_9767_41BA_884B5DA02908.label = 360CasaPasadena_ViewMEV01
+panorama_530FEE46_7C26_92A5_41BD_79CDA38D6AA6.label = 360CasaPasadena_ViewBEV01
 
 ## Hotspot
 
