@@ -13,14 +13,13 @@ tour.name = 360 Casa Pasadena
 Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
 
 ### Multiline Text
-HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.850000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
-HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
-HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.4400000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
+HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000054vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
+HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
+HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
 HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
 
 ### Label
 Label_2065837C_3F78_3E6C_41C7_C2E004A702D7.text = OMEGA 5X9 ( 2KT )
-Label_20E4E321_3F68_1F94_41A4_CF0C12567F3B.text = ALPHA 3.5 x 9 ( 1KT )
 Label_20EE6E47_3F78_099C_41A2_02C541AA49B9.text = BETA 3.5 X 9 ( 2KT )
 Label_21DECDB5_3F68_0AFC_41CC_7D224E5EF1E9.text = FACILITIES
 Label_4C941264_425A_75E5_419B_792D9F72973E.text = ( 2KT )
@@ -30,14 +29,37 @@ Label_4C96C254_425A_7526_41C5_DE46AA96D6F7.text = ALPHA 3.5 x 9
 Label_4C96C264_425A_75E5_41C0_2937F6DC1615.text = ( 2KT )
 Label_4C97D254_425A_7526_41CA_966C49B99F7E.text = ( 1KT )
 Label_4C9F6254_425A_7526_41B7_9BA3F6AE2E7E.text = FACILITIES
+Label_9C6F2524_E811_7AE8_41E2_9D4CC076AEC7.text = THETA 5X9 (4KT)
+Label_C1A6AE35_E9A0_D76E_41E7_5F0F177653AA.text = 2 LANTAI
+Label_C1CE21EC_E9A3_2CFF_41E9_F81161C64293.text = 3 LANTAI
+Label_C6282F38_E9E0_D551_41E0_A078CB3D6BC1.text = GAMMA
+Label_C647BFDB_E9E3_34D7_41AF_B66076FA7759.text = 4X9
+Label_C751958A_E9FF_3537_41DF_B95661C6B369.text = 5X9
+Label_C7DF2DB0_E9E1_F56D_41E2_708EA2119269.text = 3.5 x 9
+Label_C7DF4DB0_E9E1_F56D_41E2_E0E413DC79B6.text = 3.5 x 9
+Label_C7DFFDB0_E9E1_F56D_41C0_9C68887E8D6A.text = 5 x 9
+Label_C7FE072F_E9E1_F573_41C3_08FF9B9BCB6E.text = ALPHA
+Label_C7FEC730_E9E1_F56D_41C6_55D09EBB3ECA.text = OMEGA
+Label_C7FEE730_E9E1_F56D_41D9_F344E1BCAAB9.text = BETA
+Label_D9A0FF1A_E9E1_D556_4197_700A842FF443.text = THETA
+Label_F310AD1D_E963_D52C_41E3_4D0787BE32B7.text = OMEGA 5X9 ( 2KT )
+Label_F3116D27_E963_D51C_41D7_5E098073E6E5.text = THETA 5X9
+Label_F311DD22_E963_D514_41DB_9EC8068AC124.text = GAMMA 4X9
+Label_F3136D0E_E963_D52C_41E4_32A8E1C943AC.text = FACILITIES
+Label_F313DD12_E963_D534_41B1_B9AC5CD82476.text = ALPHA 3.5 x 9 ( 1KT )
+Label_F313DD17_E963_D53C_41AC_6BC1F5D748A6.text = BETA 3.5 X 9 ( 2KT )
 
 ## Media
 
 ### Title
 album_60A54A53_3F58_09B4_41BA_24C7A01F08B6.label = Photo Album Icon_PopUp Trans_Link
 map_57541EB7_4242_E7F7_41CA_E0A04E3AB5AD.label = KEYPLAN
+map_D187C742_E81F_DC73_41D3_6358A66487A1.label = DENAH OMEGA
+map_D1F899C8_E81F_547F_41C5_291751BF3437.label = DENAH BETA
+map_D2526179_E81F_5411_41EA_69E7B11147DE.label =  DENAH ALPHA
+map_EC4AC873_E7F2_D411_41E3_30E6A44EEED9.label = DENAH THETA
+map_EC4AF1DF_E7F2_D411_41DF_F4B61E2F9ABB.label = DENAH GAMMA
 panorama_1A648D92_42B9_AF3D_41D0_B19A379A4C16.label = 360CasaPasadena_ViewMEV05
-panorama_1B0310F2_16C1_DA8A_41AF_EBCB62467EB5.label = 360CasaPasadena_ViewMEV01
 panorama_30CCCEF7_43D9_AAE3_41B0_E298EFC7FE41.label = TipeBeta 3.5x9 2KT- 02Balkon
 panorama_30F02A6D_43E6_55E7_41CE_9D095BFCDA7C.label = TipeOmega 5x9 2KT- 06KidsBedroom
 panorama_30F0927A_43E6_B5ED_4172_78BD8E77C37E.label = TipeOmega 5x9 2KT- 03LivingRoom
@@ -54,14 +76,49 @@ panorama_333BE278_43DA_75ED_41C5_BF96F8E14D7A.label = TipeAlpha 3.5x9 1KT 03Mast
 panorama_34B515BC_43D9_BF66_41CD_074245636F17.label = TipeBeta 3.5x9 2KT- 01Tampak
 panorama_3695FE4B_43E6_ED22_41C8_E2547ED52121.label = TipeOmega 5x9 2KT- 01Tampak
 panorama_9C1906F5_8AF4_B1AD_41DC_4FE0BC0431DC.label = 360CasaPasadena_ViewMEV03
+panorama_AB789B29_E871_D430_41E1_12E2CBB829DF.label = TipeTheta5x9 - 04MasterBedRoom
 panorama_AB866380_8A54_9064_41D6_240FEC6D3CEC.label = 360CasaPasadena_ViewIntersection
 panorama_C2813B61_CF0B_D9B4_41C6_7F772A5EE824.label = 360CasaPasadena_ViewBEV01
 panorama_C2DA277D_CF0F_498F_41C5_27075FD30945.label = 360CasaPasadena_ViewMEV02
 panorama_DF361377_CF0C_C99C_41D8_7B3B2CBA6F8C.label = 360CasaPasadena_ViewMEV04
+panorama_E9DCB091_E7FF_3411_41D2_FFEA37338B75.label = 360CasaPasadena_ViewMEV01
+panorama_EA043CDF_E7FF_2C11_41D3_AA6A0A58A896.label = TipeGamma4x9 - 01Eksterior
+panorama_EA2EB543_E7FE_DC71_41E3_66FE191807BA.label = 360CasaPasadena_ViewAEV
+panorama_EA50A6B7_E7FF_5C11_41CC_4D0F169B081C.label = TipeTheta5x9 - 01Eksterior
+panorama_EB2A0B92_E7FF_5413_41E9_961888210887.label = TipeTheta5x9 - 02LivingRoom
+panorama_EB2AA906_E7FF_75F3_41BC_56F4C1E8E9FF.label = TipeTheta5x9 - 05KidsBedRoom
+panorama_EB2AAFC4_E7FF_6C77_41C7_630C9BDD8561.label = TipeTheta5x9 - 03StudyRoom
+panorama_EB30CF35_E7FF_EC11_41E6_AA9BD9BD9E0E.label = TipeGamma4x9 - 05KidsBedroom
+panorama_EB3F06DF_E7FF_DC11_41D4_08A0973A52F7.label = TipeGamma4x9 - 03StudyRoom
+panorama_EB3F72FA_E7FF_D413_41E0_EEF3D47FC89E.label = TipeGamma4x9 - 02LivingRoom
+panorama_EB3FBA8A_E7FF_D4F3_41CB_5DB30EE5A720.label = TipeGamma4x9 - 04MasterBedroom
+photo_E203E229_E963_2F1B_41E8_C236F318F0C4.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
+photo_E203E229_E963_2F1B_41E8_C236F318F0C4.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
+photo_E25DBD02_E963_3509_41E2_FD89B0FCE0E7.label = Icon_PopUp_Gamma 4x9 - 02LivingRoom
+photo_E25DBD02_E963_3509_41E2_FD89B0FCE0E7.label = Icon_PopUp_Gamma 4x9 - 02LivingRoom
+photo_E3C09992_E963_DD09_41CB_15E88ABCCAA3.label = Icon_PopUp_Theta 5x9 - 04MasterBedRoom
+photo_E3C09992_E963_DD09_41CB_15E88ABCCAA3.label = Icon_PopUp_Theta 5x9 - 04MasterBedRoom
+photo_E3C0F372_E963_6D09_41E0_AC869E8A8019.label = Icon_PopUp_Gamma 4x9 - 04MasterBedroom
+photo_E3C0F372_E963_6D09_41E0_AC869E8A8019.label = Icon_PopUp_Gamma 4x9 - 04MasterBedroom
+photo_E3C20B3C_E963_7D79_41E6_728F03F8F938.label = Icon_PopUp_Gamma 4x9 - 05KidsBedroom
+photo_E3C20B3C_E963_7D79_41E6_728F03F8F938.label = Icon_PopUp_Gamma 4x9 - 05KidsBedroom
+photo_E3C38179_E963_2DFA_41D2_2EFB3CE2D430.label = Icon_PopUp_Theta 5x9 - 03StudyRoom
+photo_E3C38179_E963_2DFA_41D2_2EFB3CE2D430.label = Icon_PopUp_Theta 5x9 - 03StudyRoom
+photo_E3C3B5C2_E963_5509_41D9_2B8F9EC35360.label = Icon_PopUp_Gamma 4x9 - 03StudyRoom
+photo_E3C3B5C2_E963_5509_41D9_2B8F9EC35360.label = Icon_PopUp_Gamma 4x9 - 03StudyRoom
+photo_E3C4E94A_E963_3D19_41D7_0FAA59D7314F.label = Icon_PopUp_Theta 5x9 - 02LivingRoom
+photo_E3C4E94A_E963_3D19_41D7_0FAA59D7314F.label = Icon_PopUp_Theta 5x9 - 02LivingRoom
+photo_E3C6A512_E963_350E_41EB_7AA219913030.label = Icon_PopUp 8_AEV
+photo_E3C6A512_E963_350E_41EB_7AA219913030.label = Icon_PopUp 8_AEV
+photo_E3C76A5A_E963_5F39_41E3_44BB7CDA7E81.label = Icon_PopUp_Theta 5x9 - 01Eksterior
+photo_E3C76A5A_E963_5F39_41E3_44BB7CDA7E81.label = Icon_PopUp_Theta 5x9 - 01Eksterior
+photo_E3D76B42_E963_DD09_41D1_1F4D6915D218.label = Icon_PopUp_Theta 5x9 - 05KidsBedRoom
+photo_E3D76B42_E963_DD09_41D1_1F4D6915D218.label = Icon_PopUp_Theta 5x9 - 05KidsBedRoom
 
 ## Hotspot
 
 ### Tooltip
+HotspotMapOverlayArea_A061EA4F_E877_F471_41E3_DDD4BAFD7CB3.toolTip = View Cluster Montana
 HotspotMapOverlayArea_B4B9060E_F6B4_98BF_41E1_4B2BDAF3FA87.toolTip = View Market
 HotspotMapOverlayArea_B5E0746E_F6B5_997F_41CA_003DEF493300.toolTip = View Aerial
 HotspotMapOverlayArea_C82266A6_F64D_99EF_41C9_2652A731DBCD.toolTip = View T Junction
