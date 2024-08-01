@@ -13,7 +13,7 @@ tour.name = 360 Casa Pasadena
 Button_8C63782A_DCA7_64D5_41E4_B44E425E1550.label = CONTACT
 
 ### Multiline Text
-HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999994vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000054vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.849999999999998vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
+HTMLText_8C63582A_DCA7_64D5_41B4_1CCE0A87411A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.999999999999992vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:5vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.200000000000005vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.2vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.8300000000000054vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.83vh;font-family:'Oswald Regular';"><B>Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.85vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>www.loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>info@loremipsum.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Tlf.: +11 111 111 111</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 1</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.8499999999999983vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.85vh;font-family:'Oswald';"><B>Address line 2</B></SPAN></SPAN></DIV></div>
 HTMLText_C02767BB_DD67_2B2B_41E3_A188B69F9625.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Unfitted</SPAN></DIV></div>
 HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.440000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;font-family:Arial, Helvetica, sans-serif;">Fitted</SPAN></DIV></div>
 HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
@@ -59,7 +59,19 @@ map_D1F899C8_E81F_547F_41C5_291751BF3437.label = DENAH BETA
 map_D2526179_E81F_5411_41EA_69E7B11147DE.label =  DENAH ALPHA
 map_EC4AC873_E7F2_D411_41E3_30E6A44EEED9.label = DENAH THETA
 map_EC4AF1DF_E7F2_D411_41DF_F4B61E2F9ABB.label = DENAH GAMMA
+panorama_02858623_0D05_64A9_41A6_C6648FCE91FF.label = TipeGamma4x9 - 02LivingRoom
+panorama_0294654A_0D7F_64FE_418F_FAFAB7CA3063.label = TipeTheta5x9 - 04MasterBedRoom
+panorama_02981195_0D7C_FC6A_41A0_4E90D297AEF3.label = TipeTheta5x9 - 03StudyRoom
+panorama_029E471D_0D7D_649B_41AA_44C279CBF67B.label = TipeTheta5x9 - 01Eksterior
+panorama_02A195BF_0D7B_2798_41A8_2FE8F51F9B49.label = TipeGamma4x9 - 05KidsBedroom
+panorama_02A6803B_0D7D_5C9E_41A4_433ACF7D75C6.label = TipeTheta5x9 - 02LivingRoom
+panorama_02A76832_0D7C_ECAE_41A6_69D9AFC05265.label = TipeTheta5x9 - 05KidsBedRoom
+panorama_02B1C7B7_0D7B_E3A8_419E_E65C094D0036.label = TipeGamma4x9 - 04MasterBedroom
+panorama_0301A939_0D3D_6CB7_41A2_E60BBF86ADD0.label = 360CasaPasadena_ViewAEV
+panorama_1884DCF1_0D0D_259C_4168_B106BD2EED00.label = 360CasaPasadena_ViewMEV01
 panorama_1A648D92_42B9_AF3D_41D0_B19A379A4C16.label = 360CasaPasadena_ViewMEV05
+panorama_1CF5E594_0D0B_6479_4198_5F0D9DE223D6.label = TipeGamma4x9 - 01Eksterior
+panorama_1D862427_0D7B_24A9_4149_B5B07C48F783.label = TipeGamma4x9 - 03StudyRoom
 panorama_30CCCEF7_43D9_AAE3_41B0_E298EFC7FE41.label = TipeBeta 3.5x9 2KT- 02Balkon
 panorama_30F02A6D_43E6_55E7_41CE_9D095BFCDA7C.label = TipeOmega 5x9 2KT- 06KidsBedroom
 panorama_30F0927A_43E6_B5ED_4172_78BD8E77C37E.label = TipeOmega 5x9 2KT- 03LivingRoom
@@ -76,24 +88,16 @@ panorama_333BE278_43DA_75ED_41C5_BF96F8E14D7A.label = TipeAlpha 3.5x9 1KT 03Mast
 panorama_34B515BC_43D9_BF66_41CD_074245636F17.label = TipeBeta 3.5x9 2KT- 01Tampak
 panorama_3695FE4B_43E6_ED22_41C8_E2547ED52121.label = TipeOmega 5x9 2KT- 01Tampak
 panorama_9C1906F5_8AF4_B1AD_41DC_4FE0BC0431DC.label = 360CasaPasadena_ViewMEV03
-panorama_AB789B29_E871_D430_41E1_12E2CBB829DF.label = TipeTheta5x9 - 04MasterBedRoom
 panorama_AB866380_8A54_9064_41D6_240FEC6D3CEC.label = 360CasaPasadena_ViewIntersection
 panorama_C2813B61_CF0B_D9B4_41C6_7F772A5EE824.label = 360CasaPasadena_ViewBEV01
 panorama_C2DA277D_CF0F_498F_41C5_27075FD30945.label = 360CasaPasadena_ViewMEV02
 panorama_DF361377_CF0C_C99C_41D8_7B3B2CBA6F8C.label = 360CasaPasadena_ViewMEV04
-panorama_E9DCB091_E7FF_3411_41D2_FFEA37338B75.label = 360CasaPasadena_ViewMEV01
-panorama_EA043CDF_E7FF_2C11_41D3_AA6A0A58A896.label = TipeGamma4x9 - 01Eksterior
-panorama_EA2EB543_E7FE_DC71_41E3_66FE191807BA.label = 360CasaPasadena_ViewAEV
-panorama_EA50A6B7_E7FF_5C11_41CC_4D0F169B081C.label = TipeTheta5x9 - 01Eksterior
-panorama_EB2A0B92_E7FF_5413_41E9_961888210887.label = TipeTheta5x9 - 02LivingRoom
-panorama_EB2AA906_E7FF_75F3_41BC_56F4C1E8E9FF.label = TipeTheta5x9 - 05KidsBedRoom
-panorama_EB2AAFC4_E7FF_6C77_41C7_630C9BDD8561.label = TipeTheta5x9 - 03StudyRoom
-panorama_EB30CF35_E7FF_EC11_41E6_AA9BD9BD9E0E.label = TipeGamma4x9 - 05KidsBedroom
-panorama_EB3F06DF_E7FF_DC11_41D4_08A0973A52F7.label = TipeGamma4x9 - 03StudyRoom
-panorama_EB3F72FA_E7FF_D413_41E0_EEF3D47FC89E.label = TipeGamma4x9 - 02LivingRoom
-panorama_EB3FBA8A_E7FF_D4F3_41CB_5DB30EE5A720.label = TipeGamma4x9 - 04MasterBedroom
-photo_E203E229_E963_2F1B_41E8_C236F318F0C4.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
-photo_E203E229_E963_2F1B_41E8_C236F318F0C4.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
+photo_0C29856E_0757_4309_4188_271318FA66EF.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
+photo_0C29856E_0757_4309_4188_271318FA66EF.label = Icon_PopUp_Gamma 4x9 - 01Eksterior
+photo_0CC0195B_0757_430F_4191_B6AF22CF460D.label = Icon_PopUp 8_AEV
+photo_0CC0195B_0757_430F_4191_B6AF22CF460D.label = Icon_PopUp 8_AEV
+photo_0CC8C523_0757_433F_4185_B4B6319E7194.label = Icon_PopUp_Theta 5x9 - 01Eksterior
+photo_0CC8C523_0757_433F_4185_B4B6319E7194.label = Icon_PopUp_Theta 5x9 - 01Eksterior
 photo_E25DBD02_E963_3509_41E2_FD89B0FCE0E7.label = Icon_PopUp_Gamma 4x9 - 02LivingRoom
 photo_E25DBD02_E963_3509_41E2_FD89B0FCE0E7.label = Icon_PopUp_Gamma 4x9 - 02LivingRoom
 photo_E3C09992_E963_DD09_41CB_15E88ABCCAA3.label = Icon_PopUp_Theta 5x9 - 04MasterBedRoom
@@ -108,10 +112,6 @@ photo_E3C3B5C2_E963_5509_41D9_2B8F9EC35360.label = Icon_PopUp_Gamma 4x9 - 03Stud
 photo_E3C3B5C2_E963_5509_41D9_2B8F9EC35360.label = Icon_PopUp_Gamma 4x9 - 03StudyRoom
 photo_E3C4E94A_E963_3D19_41D7_0FAA59D7314F.label = Icon_PopUp_Theta 5x9 - 02LivingRoom
 photo_E3C4E94A_E963_3D19_41D7_0FAA59D7314F.label = Icon_PopUp_Theta 5x9 - 02LivingRoom
-photo_E3C6A512_E963_350E_41EB_7AA219913030.label = Icon_PopUp 8_AEV
-photo_E3C6A512_E963_350E_41EB_7AA219913030.label = Icon_PopUp 8_AEV
-photo_E3C76A5A_E963_5F39_41E3_44BB7CDA7E81.label = Icon_PopUp_Theta 5x9 - 01Eksterior
-photo_E3C76A5A_E963_5F39_41E3_44BB7CDA7E81.label = Icon_PopUp_Theta 5x9 - 01Eksterior
 photo_E3D76B42_E963_DD09_41D1_1F4D6915D218.label = Icon_PopUp_Theta 5x9 - 05KidsBedRoom
 photo_E3D76B42_E963_DD09_41D1_1F4D6915D218.label = Icon_PopUp_Theta 5x9 - 05KidsBedRoom
 
